@@ -1,6 +1,7 @@
 <html>
 <body>
 <h1>rails4 tutorial demo app</h1>
-
+<a href="./users">users list</a>
+<a href="./microposts">microposts list</a>
 </body>
 </html>
